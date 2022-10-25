@@ -1,0 +1,9 @@
+operator_name
+['Anonstake']
+['CryptologSpace']
+['InfinitiSafeStake']
+['KonsorTech']
+['ParaStateDAO2']
+['Polkirerara']
+['STAKECRAFT1']
+['guraa']
