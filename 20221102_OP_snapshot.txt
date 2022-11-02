@@ -1,0 +1,6 @@
+operator_name,status_operator
+['Anonstake'],notactive
+['InfinitiSafeStake'],notactive
+['KonsorTech'],notactive
+['STAKECRAFT1'],notactive
+['guraa'],notactive
