@@ -1,0 +1,7 @@
+operator_name,status_operator
+Anonstake,notactive
+guraa,notactive
+InfinitiSafeStake,notactive
+KonsorTech,notactive
+Polkirerara,notactive
+STAKECRAFT1,notactive
