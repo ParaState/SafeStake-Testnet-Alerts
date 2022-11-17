@@ -1,0 +1,4 @@
+operator_name,	status_operator
+InfinitiSafeStake,	notactive
+KonsorTech,	notactive
+guraa,	notactive
