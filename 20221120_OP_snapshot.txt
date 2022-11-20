@@ -1,0 +1,39 @@
+operator_name,	status_operator
+InfinitiSafeStake,	notactive
+KonsorTech,	notactive
+guraa,	notactive
+100500, Have 0 validators
+agosabe, Have 0 validators
+alsaba, Have 0 validators
+AlwaysBeDream, Have 0 validators
+AlxVoy, Have 0 validators
+arya, Have 0 validators
+Blockonaut, Have 0 validators
+Collatorsio, Have 0 validators
+cryptobtcbuyer, Have 0 validators
+CsQrl, Have 0 validators
+cyberG, Have 0 validators
+Demigohu, Have 0 validators
+doxe, Have 0 validators
+Dwentzart, Have 0 validators
+eclipse, Have 0 validators
+Fajar, Have 0 validators
+Forbole, Have 0 validators
+geonodes, Have 0 validators
+igoyu, Have 0 validators
+Ikuto, Have 0 validators
+JahaND, Have 0 validators
+ksalabsafestake, Have 0 validators
+landeros, Have 0 validators
+lux8net, Have 0 validators
+myssop01, Have 0 validators
+openbitlab, Have 0 validators
+ou812, Have 0 validators
+PopGore, Have 0 validators
+QualiP, Have 0 validators
+rendydev, Have 0 validators
+SerGo, Have 0 validators
+StakeTake, Have 0 validators
+StanKurkula, Have 0 validators
+TengoNode, Have 0 validators
+yangyangyang, Have 0 validators
