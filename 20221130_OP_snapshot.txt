@@ -1,0 +1,66 @@
+operator,operator_status
+4Four,Not Active. 0 out of 1 of your validators are active.
+5ElementsNodes,Active. Your OP not working to archive consensus for 1 Validators. 2 out of 2 of your validators are active
+BulanSabit,Not Active. 0 out of 3 of your validators are active.
+CryptologSpace,Not Active. 0 out of 4 of your validators are active.
+Demigohu,Not Active. Your OP not working to archive consensus for 1 Validators. 1 out of 1 of your validators are active
+Dimar,Not Active. 0 out of 1 of your validators are active.
+ElectrroNode,Active. 1 out of 1 of your validators are active.
+InfStones,Active. 9 out of 9 of your validators are active.
+InfinitiSafeStake,Not Active. Your OP not working to archive consensus for 1 Validators. 1 out of 1 of your validators are active
+KonsorTech,Not Active. Your OP not working to archive consensus for 2 Validators. 1 out of 2 of your validators are active
+MDNodes,Not Active. 0 out of 9 of your validators are active.
+OneYummii,Not Active. Your OP not working to archive consensus for 17 Validators. 19 out of 20 of your validators are active
+ParaStateDAO1,Active. Your OP not working to archive consensus for 2 Validators. 70 out of 101 of your validators are active
+ParaStateDAO2,Active. Your OP not working to archive consensus for 1 Validators. 75 out of 104 of your validators are active
+ParaStateDAO3,Active. Your OP not working to archive consensus for 2 Validators. 74 out of 104 of your validators are active
+ParaStateDAO4,Active. Your OP not working to archive consensus for 1 Validators. 73 out of 104 of your validators are active
+Polkirerara,Active. 1 out of 1 of your validators are active.
+RealStake,Active. 1 out of 1 of your validators are active.
+RenderSoft,Active. Your OP not working to archive consensus for 1 Validators. 3 out of 3 of your validators are active
+SANJI,Not Active. 0 out of 2 of your validators are active.
+STAKECRAFT,Active. 1 out of 1 of your validators are active.
+SaraBarbora12,Active. 2 out of 3 of your validators are active.
+Sirius,Not Active. 0 out of 1 of your validators are active.
+Stakely,Not Active. Your OP not working to archive consensus for 1 Validators. 3 out of 7 of your validators are active
+cryptech,Not Active. 0 out of 1 of your validators are active.
+guraa,Not Active. Your OP not working to archive consensus for 1 Validators. 1 out of 5 of your validators are active
+jambulmerah,Not Active. 0 out of 1 of your validators are active.
+kjnodes,Active. 6 out of 8 of your validators are active.
+pinrock,Not Active. 0 out of 2 of your validators are active.
+yukii,Not Active. 0 out of 4 of your validators are active.
+eclipse,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Collatorsio,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cryptobtcbuyer,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+landeros,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+agosabe,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+JahaND,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+TengoNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+100500,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AlxVoy,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Fajar,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+SerGo,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+yangyangyang,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+igoyu,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+DiBugNodes,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+myssop01,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AlwaysBeDream,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Forbole,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+StakeTake,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Ikuto,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+StanKurkula,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+PopGore,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Blockonaut,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+geonodes,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cyberG,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+lux8net,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+alsaba,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+rendydev,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+CsQrl,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+doxe,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+arya,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Dwentzart,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+ksalabsafestake,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+openbitlab,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+ou812,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+QualiP,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
