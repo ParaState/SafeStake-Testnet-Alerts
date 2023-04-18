@@ -1,0 +1,22 @@
+operator,operator_status
+Bamboleo,Active. 44 out of 46 of your validators are active.
+Gasnode,Active. 44 out of 48 of your validators are active.
+Ikuto,Active. 1 out of 1 of your validators are active.
+InfStones,Not Active. 0 out of 1 of your validators are active.
+JahaND,Active. 4 out of 4 of your validators are active.
+MLNODE,Active. 5 out of 5 of your validators are active.
+QuasiMode,Active. 44 out of 48 of your validators are active.
+SafeStakeOP1,Not Active. 87 out of 200 of your validators are active.
+SafeStakeOP2,Not Active. 87 out of 200 of your validators are active.
+SafeStakeOP3,Not Active. 87 out of 200 of your validators are active.
+SafeStakeOP4,Not Active. 84 out of 200 of your validators are active.
+Testnode,Active. 2 out of 2 of your validators are active.
+UnderSonOp,Active. 43 out of 47 of your validators are active.
+Yggdrasill,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+geonodes,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+SafeStakedemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cyberG,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AlxVoy,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Stakely,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+STAKECRAFTdemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+CrypticNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
