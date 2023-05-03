@@ -1,0 +1,28 @@
+operator,operator_status
+Bamboleo,Active. 46 out of 52 of your validators are active.
+Gasnode,Active. 47 out of 54 of your validators are active.
+Ikuto,Active. 1 out of 1 of your validators are active.
+JahaND,Not Active. 1 out of 4 of your validators are active.
+MLNODE,Not Active. 2 out of 5 of your validators are active.
+QuasiMode,Active. 49 out of 56 of your validators are active.
+SafeStakeOP1,Not Active. 76 out of 193 of your validators are active.
+SafeStakeOP2,Not Active. 77 out of 194 of your validators are active.
+SafeStakeOP3,Not Active. 77 out of 194 of your validators are active.
+SafeStakeOP4,Not Active. 72 out of 193 of your validators are active.
+Stakely,Not Active. 0 out of 1 of your validators are active.
+Testnode,Not Active. 2 out of 2 of your validators are active.
+UnderSonOp,Active. 46 out of 52 of your validators are active.
+Validatrium,Not Active. 0 out of 1 of your validators are active.
+Yggdrasill,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+geonodes,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+SafeStakedemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cyberG,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AlxVoy,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+STAKECRAFTdemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+CrypticNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+InfStones,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+OneNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+SpaceHunter,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+MondeDVT,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+GreatWheel,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Chicco,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
