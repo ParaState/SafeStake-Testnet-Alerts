@@ -1,0 +1,38 @@
+operator,operator_status
+Bamboleo,Active. 47 out of 52 of your validators are active.
+Chicco,Active. 2 out of 2 of your validators are active.
+EightNode,Active. 2 out of 2 of your validators are active.
+FiveNode,Active. 1 out of 1 of your validators are active.
+FourNode,Active. 1 out of 1 of your validators are active.
+Gasnode,Active. 49 out of 55 of your validators are active.
+GreatWheel,Active. 2 out of 2 of your validators are active.
+Ikuto,Active. 2 out of 2 of your validators are active.
+InfStones,Active. 1 out of 1 of your validators are active.
+JahaND,Not Active. 1 out of 4 of your validators are active.
+MLNODE,Not Active. 2 out of 5 of your validators are active.
+MondeDVT,Active. 2 out of 2 of your validators are active.
+NineNode,Active. 2 out of 2 of your validators are active.
+OneNode,Active. 1 out of 1 of your validators are active.
+QuasiMode,Active. 51 out of 57 of your validators are active.
+SafeStakeOP1,Not Active. 44 out of 158 of your validators are active.
+SafeStakeOP2,Not Active. 46 out of 159 of your validators are active.
+SafeStakeOP3,Not Active. 46 out of 159 of your validators are active.
+SafeStakeOP4,Not Active. 42 out of 160 of your validators are active.
+SevenNode,Active. 2 out of 2 of your validators are active.
+SixNode,Active. 1 out of 1 of your validators are active.
+SpaceHunter,Active. 2 out of 2 of your validators are active.
+TenNode,Active. 1 out of 1 of your validators are active.
+ThreeNode,Active. 1 out of 1 of your validators are active.
+TwoNode,Active. 1 out of 1 of your validators are active.
+UnderSonOp,Active. 48 out of 53 of your validators are active.
+Validatrium,Not Active. 0 out of 1 of your validators are active.
+Yggdrasill,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+geonodes,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+SafeStakedemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cyberG,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Testnode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AlxVoy,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+STAKECRAFTdemo1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+CrypticNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+cryptoevrial,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AyTestNet,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
