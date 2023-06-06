@@ -1,0 +1,42 @@
+operator,operator_status
+BalNodex,Active. 1 out of 1 of your validators are active.
+Bamboleo,Active. 8 out of 8 of your validators are active.
+BlackRock,Active. 1 out of 1 of your validators are active.
+ChiccoNode,Active. 5 out of 5 of your validators are active.
+EightNode,Active. 2 out of 2 of your validators are active.
+FiveNode,Active. 2 out of 2 of your validators are active.
+Fournode,Active. 1 out of 1 of your validators are active.
+Gasnode,Active. 9 out of 9 of your validators are active.
+GreatWheel,Active. 3 out of 3 of your validators are active.
+MondeDVT,Active. 3 out of 3 of your validators are active.
+Nano,Active. 1 out of 1 of your validators are active.
+NineNode,Active. 1 out of 1 of your validators are active.
+Onenode,Active. 2 out of 2 of your validators are active.
+QuasiMode,Active. 8 out of 8 of your validators are active.
+SafeStakeOP1,Active. 105 out of 105 of your validators are active.
+SafeStakeOP2,Active. 105 out of 105 of your validators are active.
+SafeStakeOP3,Active. 105 out of 105 of your validators are active.
+SafeStakeOP4,Active. 105 out of 105 of your validators are active.
+SevenNode,Active. 2 out of 2 of your validators are active.
+SixNode,Active. 2 out of 2 of your validators are active.
+SpaceHunter,Active. 3 out of 3 of your validators are active.
+Sundae,Active. 1 out of 1 of your validators are active.
+TenNode,Active. 1 out of 1 of your validators are active.
+Threenode,Active. 1 out of 1 of your validators are active.
+Twonode,Active. 1 out of 1 of your validators are active.
+UnderSonOp,Active. 9 out of 9 of your validators are active.
+ZekaNode,Active. 1 out of 1 of your validators are active.
+OneNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+TwoNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+ThreeNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+FourNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Chicco,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+STKSRFT1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Jujil1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+testtest,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+XatarrerOP,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Ikuto,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Ikuto1,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+AsTestNode,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+Sundae,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
+InfStones,Not Active. Your OP have 0 Validators. You need to have at least 1 active Validator.
